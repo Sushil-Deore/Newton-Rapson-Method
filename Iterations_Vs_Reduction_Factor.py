@@ -3,6 +3,8 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import math
+import warnings
+warnings.filterwarnings('ignore')
 
 
 # Defining function of Mullar's Equation
